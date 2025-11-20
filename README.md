@@ -20,4 +20,4 @@ Virtual assistant with skills in **web development**, **SEO**, and **digital mar
 - LinkedIn: https://www.linkedin.com/in/rodrigo-miguel-p-2443b213a
 - Email: porcel1232002@gmail.com
 ## Projects
-You can find my professional portfolio projects inside the [portafolios](./portafolios) folder
+You can find my professional portfolio projects inside the [portafolio](./portafolio) folder
